@@ -1,4 +1,4 @@
-# Final Year Project - Brain Tumor Detection Using Deep Learning 
+# Brain Tumor Detection Using Deep Learning 
 
 This project utilizes deep learning models to detect brain tumors from medical imaging data. The workflow includes data preprocessing, model training, evaluation, and visualization to build a reliable and interpretable solution for brain tumor detection.
 
